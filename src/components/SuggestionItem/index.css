@@ -1,0 +1,10 @@
+.user-card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.img-style {
+  height: 20px;
+  width: 20px;
+  margin-left: 20px;
+}
